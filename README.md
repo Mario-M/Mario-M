@@ -1,4 +1,5 @@
-<h1>Hi, I'm Mario! <br/>a <a href="https://github.com/Mario-M">Desktop Engineer,</a><b> & aspiring security analyst <a href="[https://www.linkedin.com/in/joshmadakor/](https://www.linkedin.com/in/mario-molina-it/)"></a></h1>
+<h1>Hi, I'm Mario!</br>
+Desktop Engineer and aspiring Security Analyst</h1>
 
 <h2>Projects:</h2>
 
